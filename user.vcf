@@ -2,13 +2,13 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+FN: Pranil Kulkarni 
+ORG:Network Intelligence India Private Limited;
+TITLE:Cybersecurity Analyst
+EMAIL;type=INTERNET;type=WORK;type=pref:kulkarni.pranil995@gmail.com
+TEL;type=WORK;type=VOICE:+91-8793678002
+item1.ADR;type=WORK;type=pref:;;5th Floor, Lotus Nilkamal Business Park Veera Desai Industrial Estate, Andheri West;;;Mumbai;Maharashtra 400053
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:https://niiconsulting.com/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
